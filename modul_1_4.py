@@ -1,0 +1,6 @@
+my_syring=input("Я работала в салоне красоты : ")
+print(my_syring. upper())
+print(my_syring. lower())
+print(my_syring. replace(' ', ' '))
+print(my_syring [0])
+print(my_syring [-1])
